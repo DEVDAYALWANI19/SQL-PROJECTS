@@ -1,6 +1,6 @@
 # #Monday Coffee Expension SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+![Company Logo](https://github.com/DEVDAYALWANI19/SQL-PROJECTS/blob/b10045652e9922c91ba24eb1fa2442eef6e55930/monday%20coffee%20porject/1.png)
 
 ## Project Overview
 
